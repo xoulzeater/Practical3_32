@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Practical3_3</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="app_name1">MyRadioButton</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="btn_display">Display</string>
+    <string name="app_name3">ToggleButton</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="visible">Visible</string>
+
+    <string name="premium">Premium</string>
+    <string name="nonPremium">Non Premium</string>
+
+    <string name="smoker">Smoker</string>
+    <string name="nonSmoker">Non Smoker</string>
+
+    <string name="app_name4">Spinner</string>
+
+
+    <string-array name="day">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+
+    <string name="current_date">Date:</string>
+    <string name="change_date">Change Date</string>
+
+
+</resources>
